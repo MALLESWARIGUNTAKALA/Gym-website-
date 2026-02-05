@@ -1,0 +1,7 @@
+function login() {
+    alert("Login successful 💪");
+}
+
+function register() {
+    alert("Registration successful 🎉");
+}
